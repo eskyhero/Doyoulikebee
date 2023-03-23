@@ -444,6 +444,8 @@
 				DEVELOPMENT_TEAM = 4GT6SNR9MH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Doyoulikebee/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "哔哩哔哩";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -472,6 +474,8 @@
 				DEVELOPMENT_TEAM = 4GT6SNR9MH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Doyoulikebee/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "哔哩哔哩";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
